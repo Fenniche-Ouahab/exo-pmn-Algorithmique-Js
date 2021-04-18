@@ -64,7 +64,7 @@ Afficher l’Hippopotame chaque soir pendant 3 semaines.
         		finsi
 		    fin
 		  
-		  /* cycle de vie d'un Hippopotame */
+		/* cycle de vie d'un Hippopotame */
     	fonction cycleDeVie()
         	jour: entier
         	heures: entier
